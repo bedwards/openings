@@ -224,6 +224,56 @@ function view.StatusText:show(status)
 end
 
 
+-- EcoText -----------------------------------------------------------------------
+-- parent, x, y, text
+
+view.EcoText = {}
+view.EcoText.__index = view.EcoText
+view.EcoText.__tostring = utils.createToString("view.EcoText")
+
+function view.EcoText:new(o)
+  setmetatable(o, view.EcoText)
+  o:init()
+  return o
+end
+
+function view.EcoText:init()
+  self.height = 24
+  self.anchorX = .5
+  self.anchorY = .5
+  self.rect = display.newRect(
+    self.parent,
+    self.x,
+    self.y,
+    self.width,
+    self.height
+  )
+  self.rect:setFillColor(1, 1, .8)
+  self.rect:setStrokeColor(.55, .27, .07)
+  self.rect.strokeWidth = 4
+  self.rect.anchorX = self.anchorX
+  self.rect.anchorY = self.anchorY
+  self.text = display.newText {
+    parent = self.parent,
+    text  = self.text,
+    x = self.x,
+    y = self.y,
+    width = self.width,
+    height = self.height,
+    font = native.systemFont,
+    fontSize = 18,
+    align = "center",
+  }
+  self.text:setFillColor(0, 0, 0)
+  self.text.anchorX = self.anchorX
+  self.text.anchorY = self.anchorY
+end
+
+function view.EcoText:setText(text)
+  self.text.text = text
+end
+
+
 -- View -----------------------------------------------------------------------
 -- viewName, otherViewName
 
@@ -271,6 +321,15 @@ function view.View:init()
   )
   self.border:setFillColor(.55, .27, .07)
 
+  -- ECO text
+  self.ecoText = view.EcoText:new {
+    parent = self.parents.background,
+    x = (self.border.x + self.border.contentBounds.xMax ) / 2,
+    y = self.border.contentBounds.yMax + 18,
+    width = self.game.border.size - 4,
+    text = self.game.opening.eco .. " " .. self.game.opening.ecoName,
+  }
+
   -- status text
   self.statusText = view.StatusText:new {
     parent = self.parents.statusText,
@@ -296,6 +355,7 @@ end
 function view.View:willShow()
 
   self:newGame()
+  self.ecoText:setText(self.game.opening.eco .. " " .. self.game.opening.ecoName)
 
   for k, group in pairs(self.parents) do
     if k ~= "statusText" then
