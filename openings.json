@@ -1,5 +1,40 @@
 [
     {
+        "eco": "A00",
+        "ecoName": "Start position",
+        "prob": 10000000,
+        "pgn": "1. e4",
+        "turn": "w"
+    },
+    {
+        "eco": "B00",
+        "ecoName": "Kings Pawn",
+        "prob": 4521439,
+        "pgn": "1. e4 c5",
+        "turn": "b"
+    },
+    {
+        "eco": "A40",
+        "ecoName": "Queens Pawn Game",
+        "prob": 3268541,
+        "pgn": "1. d4 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "B20",
+        "ecoName": "Sicilian Defence",
+        "prob": 3105152,
+        "pgn": "1. e4 c5 2. Nf3",
+        "turn": "w"
+    },
+    {
+        "eco": "B27",
+        "ecoName": "Sicilian: 2.Nf3",
+        "prob": 2829740,
+        "pgn": "1. e4 c5 2. Nf3 d6",
+        "turn": "b"
+    },
+    {
         "eco": "B53",
         "ecoName": "Sicilian: 2...d6 3.d4",
         "prob": 2077549,

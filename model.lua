@@ -24,11 +24,25 @@ local m = {}
 m.ChessGame = {}
 m.OpeningBook = {}
 
+m.settingsPath = system.pathForFile("settings.json", system.DocumentsDirectory)
+
 function m.OpeningBook.new()
   local book = {}
   setmetatable(book, {__tostring = utils.createToString("OpeningBook")})
 
-  book.currentIndex = 1
+  
+  local settingsFile = io.open(m.settingsPath, "r")
+  if settingsFile == nil then
+    settingsFile = io.open(m.settingsPath, "w")
+    settingsFile:write(json.encode({ book = { currentIndex = 1 } }))
+    book.currentIndex = 1
+  else
+    local contents = settingsFile:read("*a")
+    io.close(settingsFile)
+    settingsFile = nil
+    settings = json.decode(contents)
+    book.currentIndex = settings.book.currentIndex
+  end
 
   local path = system.pathForFile( "./openings.json" )
   local file = io.open(path, "r")
@@ -76,7 +90,7 @@ for j, file in ipairs(files) do
 end
 
 
-function getMoves(pgn)
+function m.getMoves(pgn)
   local movesStr = c0_LuaChess.c0_get_moves_from_PGN(pgn)
   local moves = {}
   local movesIndex = 1
@@ -94,12 +108,25 @@ function getMoves(pgn)
 end
 
 
+function m.persistCurrentIndex(currentIndex)
+  local settingsFile = io.open(m.settingsPath, "r")
+  local contents = settingsFile:read("*a")
+  io.close(settingsFile)
+  print("contents", contents)
+  local settings = json.decode(contents)
+  settings.book.currentIndex = currentIndex
+  settingsFile = io.open(m.settingsPath, "w")
+  settingsFile:write(json.encode(settings))
+  io.close(settingsFile)
+end
+
+
 function m.ChessGame.new(params)
   local game = {}
   setmetatable(game, {__tostring = utils.createToString("ChessGame")})
 
   game.opening = params.opening
-  game.moves = getMoves(params.opening.pgn)
+  game.moves = m.getMoves(params.opening.pgn)
 
   if params.opening.turn == "b" then
     game.movesIndex = 1
@@ -212,9 +239,11 @@ function m.ChessGame.new(params)
     if pgn == expected then
       if m.book.currentIndex == #m.book.openings then
         m.book.currentIndex = 1
+        m.persistCurrentIndex(m.book.currentIndex)
         return { status = "Game over" }
       end
       m.book.currentIndex = m.book.currentIndex + 1
+      m.persistCurrentIndex(m.book.currentIndex)
       return { status = "Complete" }
     end
     if pgn == expected:sub(1, #pgn) then
@@ -222,6 +251,7 @@ function m.ChessGame.new(params)
     end
     if m.book.currentIndex > 1 then
       m.book.currentIndex = m.book.currentIndex - 1
+      m.persistCurrentIndex(m.book.currentIndex)
     end
     local expectedMoves = c0_LuaChess.c0_get_moves_from_PGN(expected)
     -- print("game.moves")
