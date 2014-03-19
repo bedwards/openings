@@ -163,6 +163,7 @@ function m.ChessGame.new(params)
     move = game.moves[game.movesIndex]
     game.movesIndex = game.movesIndex + 2
     c0_LuaChess.c0_move_to(move[1], move[2])
+    -- print(move[1], move[2], c0_LuaChess.c0_get_FEN())
     c0_LuaChess.c0_sidemoves = -c0_LuaChess.c0_sidemoves
     local oppMoveInfo = {
         x = game.squares[move[2]].x,

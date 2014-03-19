@@ -397,24 +397,32 @@ function view.View:willShow()
 
 end
 
-function view.View:makeMove(fromSquareName, toSquareName)
+function view.View:_makeMove(fromSquareName, toSquareName)
   if self.pieces[toSquareName] ~= nil then
     self.pieces[toSquareName]:removeSelf()
   end
   self.pieces[toSquareName] = self.pieces[fromSquareName]
   self.pieces[fromSquareName] = nil
   self.pieces[toSquareName]:setSquare(self.squares[toSquareName])
+  if fromSquareName == "e1" and toSquareName == "c1" then
+    self:_makeMove("a1", "d1")
+  elseif fromSquareName == "e1" and toSquareName == "g1" then
+    self:_makeMove("h1", "f1")
+  elseif fromSquareName == "e8" and toSquareName == "c8" then
+    self:_makeMove("a8", "d8")
+  elseif fromSquareName == "e8" and toSquareName == "g8" then
+    self:_makeMove("h8", "f8")
+  end
+end
+
+function view.View:makeMove(fromSquareName, toSquareName)
+  self:_makeMove(fromSquareName, toSquareName)
   local result = self.game.makeMove(fromSquareName, toSquareName)
   self.statusText:show(result.status)
   if result.status == "Correct" then
     timer.performWithDelay(1000, function()
       local move = self.game.makeOpponentMove()
-      if self.pieces[move.newSquareName] ~= nil then
-        self.pieces[move.newSquareName]:removeSelf()
-      end
-      self.pieces[move.newSquareName] = self.pieces[move.oldSquareName]
-      self.pieces[move.oldSquareName] = nil
-      self.pieces[move.newSquareName]:setSquare(self.squares[move.newSquareName])
+      self:_makeMove(move.oldSquareName, move.newSquareName)
     end)
   elseif result.status == "Incorrect" then
     self.highlightManager:addHighlightsAt(result.move)
