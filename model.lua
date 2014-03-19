@@ -112,7 +112,6 @@ function m.persistCurrentIndex(currentIndex)
   local settingsFile = io.open(m.settingsPath, "r")
   local contents = settingsFile:read("*a")
   io.close(settingsFile)
-  print("contents", contents)
   local settings = json.decode(contents)
   settings.book.currentIndex = currentIndex
   settingsFile = io.open(m.settingsPath, "w")
@@ -228,7 +227,7 @@ function m.ChessGame.new(params)
     local rawPgn = c0_LuaChess.c0_put_to_PGN("")
     c0_LuaChess.c0_sidemoves = -c0_LuaChess.c0_sidemoves
     local pgn
-    for s in rawPgn:gmatch("1%. [a-h][1-8][^0]*") do
+    for s in rawPgn:gmatch("1%. N?[a-h][1-8][^0]*") do
       pgn = s:sub(1, #s-2)
     end
     -- |1. e4 e5|
