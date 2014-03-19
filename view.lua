@@ -349,6 +349,9 @@ function view.View:makeMove(fromSquareName, toSquareName)
   if result.status == "Correct" then
     timer.performWithDelay(1000, function()
       local move = self.game.makeOpponentMove()
+      if self.pieces[move.newSquareName] ~= nil then
+        self.pieces[move.newSquareName]:removeSelf()
+      end
       self.pieces[move.newSquareName] = self.pieces[move.oldSquareName]
       self.pieces[move.oldSquareName] = nil
       self.pieces[move.newSquareName]:setSquare(self.squares[move.newSquareName])
