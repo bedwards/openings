@@ -113,7 +113,6 @@ end
 
 function view.Highlight:tap(event)
   self.manager:makeMove(self.piece.square.name, self.square.name)
-  -- self.piece:setSquare(self.square)
 end
 
 
@@ -339,6 +338,9 @@ function view.View:willShow()
 end
 
 function view.View:makeMove(fromSquareName, toSquareName)
+  if self.pieces[toSquareName] ~= nil then
+    self.pieces[toSquareName]:removeSelf()
+  end
   self.pieces[toSquareName] = self.pieces[fromSquareName]
   self.pieces[fromSquareName] = nil
   self.pieces[toSquareName]:setSquare(self.squares[toSquareName])
