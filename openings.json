@@ -1,0 +1,3691 @@
+[
+    {
+        "eco": "B53",
+        "ecoName": "Sicilian: 2...d6 3.d4",
+        "prob": 2077549,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4",
+        "turn": "b"
+    },
+    {
+        "eco": "C20",
+        "ecoName": "Open Game",
+        "prob": 1985848,
+        "pgn": "1. e4 e5 2. Nf3",
+        "turn": "w"
+    },
+    {
+        "eco": "B54",
+        "ecoName": "Sicilian: Open, 2...d6",
+        "prob": 1945268,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "B56",
+        "ecoName": "Sicilian: Open, 2...d6, 5.Nc3",
+        "prob": 1874244,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6",
+        "turn": "b"
+    },
+    {
+        "eco": "B50",
+        "ecoName": "Sicilian: 2.Nf3 d6",
+        "prob": 1340996,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "C00",
+        "ecoName": "French",
+        "prob": 1337550,
+        "pgn": "1. e4 e6 2. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "B53",
+        "ecoName": "Sicilian: 2...d6 3.d4 cxd4",
+        "prob": 1259423,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4",
+        "turn": "w"
+    },
+    {
+        "eco": "B54",
+        "ecoName": "Sicilian: Open, 2...d6, 4...Nf6",
+        "prob": 1184659,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3",
+        "turn": "w"
+    },
+    {
+        "eco": "B10",
+        "ecoName": "Caro-Kann",
+        "prob": 878050,
+        "pgn": "1. e4 c6 2. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "B30",
+        "ecoName": "Sicilian: 2...Nc6",
+        "prob": 825169,
+        "pgn": "1. e4 c5 2. Nf3 Nc6 3. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "B01",
+        "ecoName": "Scandinavian (Centre Counter)",
+        "prob": 781731,
+        "pgn": "1. e4 d5 2. exd5",
+        "turn": "w"
+    },
+    {
+        "eco": "B90",
+        "ecoName": "Sicilian: Najdorf",
+        "prob": 732913,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5",
+        "turn": "w"
+    },
+    {
+        "eco": "B40",
+        "ecoName": "Sicilian: 2...e6",
+        "prob": 729566,
+        "pgn": "1. e4 c5 2. Nf3 e6 3. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "B23",
+        "ecoName": "Sicilian: Closed",
+        "prob": 686887,
+        "pgn": "1. e4 c5 2. Nc3 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "A04",
+        "ecoName": "Reti",
+        "prob": 666489,
+        "pgn": "1. Nf3 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "B95",
+        "ecoName": "Sicilian: Najdorf, 6...e6",
+        "prob": 642098,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4",
+        "turn": "w"
+    },
+    {
+        "eco": "B07",
+        "ecoName": "Pirc",
+        "prob": 620810,
+        "pgn": "1. e4 d6 2. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "A10",
+        "ecoName": "English",
+        "prob": 567682,
+        "pgn": "1. c4 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "B94",
+        "ecoName": "Sicilian: Najdorf, 6.Bg5",
+        "prob": 562144,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6",
+        "turn": "b"
+    },
+    {
+        "eco": "B90",
+        "ecoName": "Sicilian: Najdorf, 6.Be3",
+        "prob": 453259,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "B02",
+        "ecoName": "Alekhine Defence",
+        "prob": 424268,
+        "pgn": "1. e4 Nf6 2. e5",
+        "turn": "w"
+    },
+    {
+        "eco": "B06",
+        "ecoName": "Modern",
+        "prob": 401704,
+        "pgn": "1. e4 g6 2. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "B96",
+        "ecoName": "Sicilian: Najdorf, 7.f4",
+        "prob": 384984,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7",
+        "turn": "b"
+    },
+    {
+        "eco": "B98",
+        "ecoName": "Sicilian: Najdorf, 7...Be7 8.Qf3",
+        "prob": 366834,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7",
+        "turn": "b"
+    },
+    {
+        "eco": "B98",
+        "ecoName": "Sicilian: Najdorf, 8...Qc7 9.O-O-O",
+        "prob": 357963,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7",
+        "turn": "b"
+    },
+    {
+        "eco": "B22",
+        "ecoName": "Sicilian: Alapin",
+        "prob": 312201,
+        "pgn": "1. e4 c5 2. c3 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "B21",
+        "ecoName": "Sicilian: Smith-Morra Gambit",
+        "prob": 294681,
+        "pgn": "1. e4 c5 2. d4 cxd4",
+        "turn": "b"
+    },
+    {
+        "eco": "B51",
+        "ecoName": "Sicilian: 3.Bb5+",
+        "prob": 278709,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7",
+        "turn": "b"
+    },
+    {
+        "eco": "B92",
+        "ecoName": "Sicilian: Najdorf, 6.Be2",
+        "prob": 270230,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "B00",
+        "ecoName": "Nimzowitsch Defence",
+        "prob": 267492,
+        "pgn": "1. e4 Nc6 2. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "B70",
+        "ecoName": "Sicilian: Dragon",
+        "prob": 256047,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3",
+        "turn": "w"
+    },
+    {
+        "eco": "B90",
+        "ecoName": "Sicilian: Najdorf, Fischer-Sozin Attack",
+        "prob": 226395,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6",
+        "turn": "b"
+    },
+    {
+        "eco": "B98",
+        "ecoName": "Sicilian: Najdorf, 7...Be7",
+        "prob": 221657,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3",
+        "turn": "w"
+    },
+    {
+        "eco": "B99",
+        "ecoName": "Sicilian: Najdorf, Main Line, 10.g4",
+        "prob": 220514,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5",
+        "turn": "b"
+    },
+    {
+        "eco": "B97",
+        "ecoName": "Sicilian: Najdorf, Poisoned Pawn",
+        "prob": 212453,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2",
+        "turn": "w"
+    },
+    {
+        "eco": "B99",
+        "ecoName": "Sicilian: Najdorf, Main Line, 10.g4 b5 11.Bxf6",
+        "prob": 203619,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6",
+        "turn": "b"
+    },
+    {
+        "eco": "B99",
+        "ecoName": "Sicilian: Najdorf, Main Line, 10.g4 b5 11.Bxf6 Nxf6 12.g5",
+        "prob": 202766,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7",
+        "turn": "b"
+    },
+    {
+        "eco": "A00",
+        "ecoName": "Van Geet (Dunst) Opening",
+        "prob": 185123,
+        "pgn": "1. Nc3 d5",
+        "turn": "b"
+    },
+    {
+        "eco": "A00",
+        "ecoName": "Benko Opening",
+        "prob": 166209,
+        "pgn": "1. g3 d5",
+        "turn": "b"
+    },
+    {
+        "eco": "B99",
+        "ecoName": "Sicilian: Najdorf, Modern Main Line 13.f5",
+        "prob": 158765,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5",
+        "turn": "b"
+    },
+    {
+        "eco": "B98",
+        "ecoName": "Sicilian: Najdorf, 8...Qc7",
+        "prob": 147828,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O",
+        "turn": "w"
+    },
+    {
+        "eco": "B50",
+        "ecoName": "Sicilian: 2.Nf3 d6 3.c3",
+        "prob": 146592,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. c3 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 137415,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8",
+        "turn": "b"
+    },
+    {
+        "eco": "B99",
+        "ecoName": "Sicilian: Najdorf, Modern Main Line 13.f5 Nc5 14.f6",
+        "prob": 137415,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6",
+        "turn": "b"
+    },
+    {
+        "eco": "A00",
+        "ecoName": "Van Kruijs",
+        "prob": 131213,
+        "pgn": "1. e3 d5",
+        "turn": "b"
+    },
+    {
+        "eco": "A01",
+        "ecoName": "Nimzowitsch-Larsen Attack",
+        "prob": 129069,
+        "pgn": "1. b3 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "A02",
+        "ecoName": "Bird",
+        "prob": 126161,
+        "pgn": "1. f4 d5",
+        "turn": "b"
+    },
+    {
+        "eco": "B50",
+        "ecoName": "Sicilian: 2.Nf3 d6 3.Nc3",
+        "prob": 122994,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. Nc3 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "B99",
+        "ecoName": "Sicilian: Najdorf, Main Line",
+        "prob": 115478,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4",
+        "turn": "w"
+    },
+    {
+        "eco": "B99",
+        "ecoName": "Sicilian: Najdorf, Main Line, 10.Bd3",
+        "prob": 111464,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. Bd3 b5",
+        "turn": "b"
+    },
+    {
+        "eco": "B56",
+        "ecoName": "Sicilian: Open, 2...d6 5.Nc3 Nc6",
+        "prob": 107412,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5",
+        "turn": "w"
+    },
+    {
+        "eco": "B90",
+        "ecoName": "Sicilian: Najdorf, 6.f3",
+        "prob": 105774,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "B00",
+        "ecoName": "Owen Defence",
+        "prob": 104681,
+        "pgn": "1. e4 b6 2. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "B95",
+        "ecoName": "Sicilian: Najdorf, 6...e6 7.Qd2",
+        "prob": 99699,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd2 Be7",
+        "turn": "b"
+    },
+    {
+        "eco": "B99",
+        "ecoName": "Sicilian: Najdorf, Modern Main Line 13.f5 Nc5 14.f6: Perenyis 16.Rg1",
+        "prob": 98616,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5",
+        "turn": "b"
+    },
+    {
+        "eco": "B93",
+        "ecoName": "Sicilian: Najdorf, 6.f4",
+        "prob": 94654,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6",
+        "turn": "b"
+    },
+    {
+        "eco": "B99",
+        "ecoName": "Sicilian: Najdorf, Main Line, 10.g4 b5",
+        "prob": 92619,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6",
+        "turn": "w"
+    },
+    {
+        "eco": "A00",
+        "ecoName": "Mieses",
+        "prob": 88169,
+        "pgn": "1. d3 d5",
+        "turn": "b"
+    },
+    {
+        "eco": "B53",
+        "ecoName": "Sicilian, Chekhover Variation",
+        "prob": 86774,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "B27",
+        "ecoName": "Sicilian: Hungarian Variation",
+        "prob": 83206,
+        "pgn": "1. e4 c5 2. Nf3 g6 3. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "B99",
+        "ecoName": "Sicilian: Najdorf, Main Line, 10.g4 b5 11.Bxf6 Nxf6",
+        "prob": 74713,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 74556,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5",
+        "turn": "w"
+    },
+    {
+        "eco": "B50",
+        "ecoName": "Sicilian: 2.Nf3 d6 3.Bc4",
+        "prob": 73705,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. Bc4 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "B96",
+        "ecoName": "Sicilian: Najdorf, 7.f4 Qc7",
+        "prob": 73577,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Qf3",
+        "turn": "w"
+    },
+    {
+        "eco": "B53",
+        "ecoName": "Sicilian: 2...d6 3.d4 Nf6",
+        "prob": 73118,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3",
+        "turn": "w"
+    },
+    {
+        "eco": "B21",
+        "ecoName": "Sicilian: Grand Prix Attack",
+        "prob": 69020,
+        "pgn": "1. e4 c5 2. f4 d5",
+        "turn": "b"
+    },
+    {
+        "eco": "B20",
+        "ecoName": "Sicilian: Wing Gambit",
+        "prob": 63880,
+        "pgn": "1. e4 c5 2. b4 cxb4",
+        "turn": "b"
+    },
+    {
+        "eco": "B96",
+        "ecoName": "Sicilian: Najdorf, 7.f4 Nbd7",
+        "prob": 63828,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3",
+        "turn": "w"
+    },
+    {
+        "eco": "B80",
+        "ecoName": "Sicilian: Scheveningen",
+        "prob": 61370,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g4",
+        "turn": "w"
+    },
+    {
+        "eco": "B20",
+        "ecoName": "Sicilian: 2.Bc4",
+        "prob": 59585,
+        "pgn": "1. e4 c5 2. Bc4 e6",
+        "turn": "b"
+    },
+    {
+        "eco": "B28",
+        "ecoName": "Sicilian: OKelly Variation",
+        "prob": 58613,
+        "pgn": "1. e4 c5 2. Nf3 a6 3. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 57854,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4",
+        "turn": "b"
+    },
+    {
+        "eco": "B20",
+        "ecoName": "Sicilian: 2.d3",
+        "prob": 54916,
+        "pgn": "1. e4 c5 2. d3 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "B20",
+        "ecoName": "Sicilian: English (2.c4)",
+        "prob": 47165,
+        "pgn": "1. e4 c5 2. c4 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 45457,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 45457,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5",
+        "turn": "b"
+    },
+    {
+        "eco": "B91",
+        "ecoName": "Sicilian: Najdorf, 6.g3",
+        "prob": 45449,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "B94",
+        "ecoName": "Sicilian: Najdorf, 6.Bg5 Nbd7",
+        "prob": 43992,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4",
+        "turn": "w"
+    },
+    {
+        "eco": "B29",
+        "ecoName": "Sicilian: Nimzowitsch",
+        "prob": 42382,
+        "pgn": "1. e4 c5 2. Nf3 Nf6 3. e5",
+        "turn": "w"
+    },
+    {
+        "eco": "B99",
+        "ecoName": "Sicilian: Najdorf, Modern Main Line 13.f5 Nc5",
+        "prob": 38944,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6",
+        "turn": "w"
+    },
+    {
+        "eco": "B00",
+        "ecoName": "St. George Defence",
+        "prob": 38172,
+        "pgn": "1. e4 a6 2. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "B50",
+        "ecoName": "Sicilian: 2.Nf3 d6 3.d3",
+        "prob": 37981,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d3 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 37404,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 37404,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6",
+        "turn": "w"
+    },
+    {
+        "eco": "B90",
+        "ecoName": "Sicilian: Najdorf, 6.a4",
+        "prob": 34827,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 34761,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8",
+        "turn": "b"
+    },
+    {
+        "eco": "B54",
+        "ecoName": "Sicilian: Prins (Moscow) Variation",
+        "prob": 34269,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 33797,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. c3 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "A00",
+        "ecoName": "Saragossa",
+        "prob": 33730,
+        "pgn": "1. c3 d5",
+        "turn": "b"
+    },
+    {
+        "eco": "B96",
+        "ecoName": "Sicilian: Najdorf, Polugaevsky Variation",
+        "prob": 32349,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5",
+        "turn": "w"
+    },
+    {
+        "eco": "B54",
+        "ecoName": "Sicilian: Open, 2...d6, 4...a6",
+        "prob": 29334,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 a6 5. Nc3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 29076,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd3 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "A00",
+        "ecoName": "Polish (Sokolsky; Orang-Utan)",
+        "prob": 26904,
+        "pgn": "1. b4 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 26739,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qf4 Kc8",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 25655,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. c4 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "B99",
+        "ecoName": "Sicilian: Najdorf, Modern Main Line 13.f5 Bxg5+",
+        "prob": 24661,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Bxg5+ 14. Kb1",
+        "turn": "w"
+    },
+    {
+        "eco": "B54",
+        "ecoName": "Sicilian: Open, 2...d6, 4...Nf6 5.Bd3",
+        "prob": 22650,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "B90",
+        "ecoName": "Sicilian: Najdorf, Adams Attack",
+        "prob": 22299,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6",
+        "turn": "b"
+    },
+    {
+        "eco": "B95",
+        "ecoName": "Sicilian: Najdorf, 6...e6 7.Qf3",
+        "prob": 22271,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qf3 Be7",
+        "turn": "b"
+    },
+    {
+        "eco": "B98",
+        "ecoName": "Sicilian: Najdorf, 7...Be7 8.Qf3 h6",
+        "prob": 22103,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 h6 9. Bh4",
+        "turn": "w"
+    },
+    {
+        "eco": "A00",
+        "ecoName": "Grob",
+        "prob": 22062,
+        "pgn": "1. g4 d5",
+        "turn": "b"
+    },
+    {
+        "eco": "B20",
+        "ecoName": "Sicilian: Mengarini",
+        "prob": 21767,
+        "pgn": "1. e4 c5 2. a3 e6",
+        "turn": "b"
+    },
+    {
+        "eco": "B60",
+        "ecoName": "Sicilian: Richter-Rauzer, 6...a6",
+        "prob": 20657,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nc6 7. Qd2",
+        "turn": "w"
+    },
+    {
+        "eco": "B20",
+        "ecoName": "Sicilian: 2.g3",
+        "prob": 20122,
+        "pgn": "1. e4 c5 2. g3 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "B56",
+        "ecoName": "Sicilian: Open, 2...d6, 5.Nc3 e5",
+        "prob": 20007,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Bb5+",
+        "turn": "w"
+    },
+    {
+        "eco": "B99",
+        "ecoName": "Sicilian: Najdorf, Main Line, 10.g4 b5 11.Bxf6 Nxf6 12.g5 Nd7 13.a3",
+        "prob": 19060,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. a3 Rb8",
+        "turn": "b"
+    },
+    {
+        "eco": "B20",
+        "ecoName": "Sicilian: Keres Variation (2.Ne2)",
+        "prob": 18670,
+        "pgn": "1. e4 c5 2. Ne2 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "B96",
+        "ecoName": "Sicilian: Najdorf, 7.f4 h6",
+        "prob": 17917,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 17694,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Nbd7 9. O-O-O",
+        "turn": "w"
+    },
+    {
+        "eco": "B96",
+        "ecoName": "Sicilian: Najdorf, 7.f4 Nc6",
+        "prob": 17536,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nc6 8. Nxc6",
+        "turn": "w"
+    },
+    {
+        "eco": "B20",
+        "ecoName": "Sicilian: Snyder",
+        "prob": 17321,
+        "pgn": "1. e4 c5 2. b3 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "B50",
+        "ecoName": "Sicilian: Wing Gambit deferred",
+        "prob": 17151,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. b4 cxb4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 16570,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Qh5 b4",
+        "turn": "b"
+    },
+    {
+        "eco": "B94",
+        "ecoName": "Sicilian: Najdorf, 6.Bg5 e5",
+        "prob": 16487,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e5 7. Nb3",
+        "turn": "w"
+    },
+    {
+        "eco": "B50",
+        "ecoName": "Sicilian: 2.Nf3 d6 3.b3",
+        "prob": 16368,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. b3 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "B98",
+        "ecoName": "Sicilian: Najdorf, Danner Variation",
+        "prob": 14584,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qa5 9. O-O-O",
+        "turn": "w"
+    },
+    {
+        "eco": "B95",
+        "ecoName": "Sicilian: Najdorf, 6...e6 7.Be2",
+        "prob": 14401,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Be2 Be7",
+        "turn": "b"
+    },
+    {
+        "eco": "A00",
+        "ecoName": "Kadas Opening",
+        "prob": 14260,
+        "pgn": "1. h4 d5",
+        "turn": "b"
+    },
+    {
+        "eco": "B50",
+        "ecoName": "Sicilian: 2.Nf3 d6 3.g3",
+        "prob": 14202,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. g3 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "A00",
+        "ecoName": "Barnes Opening",
+        "prob": 13884,
+        "pgn": "1. f3 d5",
+        "turn": "b"
+    },
+    {
+        "eco": "B32",
+        "ecoName": "Sicilian: Open, 2...Nc6, 4...d6",
+        "prob": 13855,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 13148,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. a3 Bd7",
+        "turn": "b"
+    },
+    {
+        "eco": "B54",
+        "ecoName": "Sicilian: Open, 2...d6, 4...e5",
+        "prob": 12821,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 e5 5. Bb5+",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 12397,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nce2 Bb7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 11884,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qf4 Kc8 22. Nc6 a5",
+        "turn": "b"
+    },
+    {
+        "eco": "B40",
+        "ecoName": "Sicilian: Open, 2...e6, 4.Nxd4 d6",
+        "prob": 11701,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 e6 5. Nc3",
+        "turn": "w"
+    },
+    {
+        "eco": "B00",
+        "ecoName": "Kings Pawn: Fred",
+        "prob": 11676,
+        "pgn": "1. e4 f5 2. exf5",
+        "turn": "w"
+    },
+    {
+        "eco": "B99",
+        "ecoName": "Sicilian: Najdorf, Modern Main Line 13.f5 Nc5 14.h4",
+        "prob": 11645,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. h4 b4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 11497,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7",
+        "turn": "w"
+    },
+    {
+        "eco": "B99",
+        "ecoName": "Sicilian: Najdorf, Main Line, 10.g4 h6",
+        "prob": 11466,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 h6 11. Bxf6",
+        "turn": "w"
+    },
+    {
+        "eco": "A00",
+        "ecoName": "Anderssen Opening",
+        "prob": 11035,
+        "pgn": "1. a3 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 10740,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 O-O 9. O-O-O",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 10543,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. h4 b4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 10519,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Re1 Bd7",
+        "turn": "b"
+    },
+    {
+        "eco": "B99",
+        "ecoName": "Sicilian: Najdorf, Main Line, 10.g4 b5 11.Bxf6 gxf6",
+        "prob": 10379,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 gxf6 12. f5",
+        "turn": "w"
+    },
+    {
+        "eco": "B95",
+        "ecoName": "Sicilian: Najdorf, 6...e6 7.Qe2",
+        "prob": 10319,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qe2 Be7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 9964,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 Bd7 17. Rg7",
+        "turn": "w"
+    },
+    {
+        "eco": "A00",
+        "ecoName": "Clemenz Opening",
+        "prob": 9852,
+        "pgn": "1. h3 d5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 9699,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Bh3 b4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 9498,
+        "pgn": "1. e4 c5 2. e5 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 9430,
+        "pgn": "1. e4 a5 2. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 9375,
+        "pgn": "1. e4 c5 2. Nf3 d5 3. exd5",
+        "turn": "w"
+    },
+    {
+        "eco": "B95",
+        "ecoName": "Sicilian: Najdorf, 6...e6 7.Bd3",
+        "prob": 9307,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Bd3 Be7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 9111,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Bc4 Be7",
+        "turn": "b"
+    },
+    {
+        "eco": "B99",
+        "ecoName": "Sicilian: Najdorf, Main Line, Keres Variation",
+        "prob": 9087,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. Be2 b5",
+        "turn": "b"
+    },
+    {
+        "eco": "A00",
+        "ecoName": "Ware Opening",
+        "prob": 8958,
+        "pgn": "1. a4 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 8913,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qf4 Kc8 22. Ne6 Bxg7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 8913,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qf4 Kc8 22. Nc6 a5 23. h3 Bd7 24. Bg2 Bxc6 25. dxc6 Bxg7 26. fxg7 Rg8 27. Qf5+ Kb8 28. Qxh5 f5 29. Qe8+ Ka7 30. Re7 Kb6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 8913,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qf4 Kc8 22. Nc6 a5 23. h3 Bd7 24. Bg2 Bxc6 25. dxc6 Bxg7 26. fxg7 Rg8 27. Qf5+ Kb8 28. Qxh5 f5 29. Qe8+ Ka7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 8913,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qf4 Kc8 22. Nc6 a5 23. h3 Bd7 24. Bg2 Bxc6 25. dxc6 Bxg7 26. fxg7 Rg8 27. Qf5+ Kb8 28. Qxh5 f5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 8913,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qf4 Kc8 22. Nc6 a5 23. h3 Bd7 24. Bg2 Bxc6 25. dxc6 Bxg7 26. fxg7 Rg8 27. Qf5+ Kb8",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 8913,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qf4 Kc8 22. Nc6 a5 23. h3 Bd7 24. Bg2 Bxc6 25. dxc6 Bxg7 26. fxg7 Rg8",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 8913,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qf4 Kc8 22. Nc6 a5 23. h3 Bd7 24. Bg2 Bxc6 25. dxc6 Bxg7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 8913,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qf4 Kc8 22. Nc6 a5 23. h3 Bd7 24. Bg2 Bxc6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 8913,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qf4 Kc8 22. Nc6 a5 23. h3 Bd7",
+        "turn": "b"
+    },
+    {
+        "eco": "B98",
+        "ecoName": "Sicilian: Najdorf, 8...Qc7 9.O-O-O b5",
+        "prob": 8848,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O b5 10. e5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 8614,
+        "pgn": "1. e4 f6 2. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 8584,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 b4 17. Nd5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 8274,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Rg1 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "B27",
+        "ecoName": "Sicilian: Katalimov Variation",
+        "prob": 8050,
+        "pgn": "1. e4 c5 2. Nf3 b6 3. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 7998,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Ne5 14. Qg3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 7889,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Kb1 Bb7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 7889,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Bh3 b4",
+        "turn": "b"
+    },
+    {
+        "eco": "A00",
+        "ecoName": "Amar/Paris Opening",
+        "prob": 7493,
+        "pgn": "1. Nh3 d5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 7447,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Bxf6 12. g5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 7392,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. Be2 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 7316,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 7316,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 7247,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Qf3 e6",
+        "turn": "b"
+    },
+    {
+        "eco": "B98",
+        "ecoName": "Sicilian: Najdorf, 8...Qc7 9.O-O-O Nc6",
+        "prob": 6932,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nc6 10. Nxc6",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 6736,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qe2 Qc7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 6657,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 O-O 11. Bxf6",
+        "turn": "w"
+    },
+    {
+        "eco": "B00",
+        "ecoName": "Reversed Grob (Borg/Basman Defence)",
+        "prob": 6582,
+        "pgn": "1. e4 g5 2. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 6199,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O h6 10. Bh4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 6199,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O O-O 10. g4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 6105,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. Kb1 b5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 5942,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qf4 Kc8 22. Kb1 Kb7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 5825,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 Bb7 17. Rg7",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 5778,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Bb5+ Bd7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 5658,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. a3 Bb7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 5653,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qf4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 5653,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 5550,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Bb5+ Bd7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 5347,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qe3 Kc8",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 5347,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Qf4 Bxd1",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 5347,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Qe3+ Kd8",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 5222,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Nb3 e6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 5159,
+        "pgn": "1. e4 h5 2. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 5088,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qf4 Kc8 22. Nc6 a5 23. h3 Bd7 24. Bg2 Bxc6 25. dxc6 Bxg7 26. fxg7 Rg8 27. Qf5+ Kb8 28. Qxh5 f5 29. Qe8+ Ka7 30. Re7",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 5088,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qf4 Kc8 22. Nc6 a5 23. h3 Bd7 24. Bg2 Bxc6 25. dxc6 Bxg7 26. fxg7 Rg8 27. Qf5+ Kb8 28. Qxh5 f5 29. Qe8+",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 5088,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qf4 Kc8 22. Nc6 a5 23. h3 Bd7 24. Bg2 Bxc6 25. dxc6 Bxg7 26. fxg7 Rg8 27. Qf5+ Kb8 28. Qxh5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 5088,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qf4 Kc8 22. Nc6 a5 23. h3 Bd7 24. Bg2 Bxc6 25. dxc6 Bxg7 26. fxg7 Rg8 27. Qf5+",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 5088,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qf4 Kc8 22. Nc6 a5 23. h3 Bd7 24. Bg2 Bxc6 25. dxc6 Bxg7 26. fxg7",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 5088,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qf4 Kc8 22. Nc6 a5 23. h3 Bd7 24. Bg2 Bxc6 25. dxc6",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 5088,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qf4 Kc8 22. Nc6 a5 23. h3 Bd7 24. Bg2",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 5088,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qf4 Kc8 22. Nc6 a5 23. h3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 5088,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qf4 Kc8 22. Nc6",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 4712,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 g6 5. Nc3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 4619,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Bc4 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "B99",
+        "ecoName": "Sicilian: Najdorf, Main Line, 10.g4 b5 11.Bd3",
+        "prob": 4528,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bd3 Bb7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 4436,
+        "pgn": "1. e4 h6 2. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 4078,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. h3 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 4001,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Bd7 10. e5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 3984,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f3 Be7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 3731,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Nc6 9. O-O-O",
+        "turn": "w"
+    },
+    {
+        "eco": "B56",
+        "ecoName": "Sicilian: Open, 2...d6, 5.Nc3 Bd7",
+        "prob": 3682,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bd7 6. Bg5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 3407,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. Bxf6 Nxf6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 3368,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qd2 Qc7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 3367,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 Nc6 4. d5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 3286,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Nf3 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 3233,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Bg2 Bb7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 3225,
+        "pgn": "1. e4 b5 2. Bxb5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 3136,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Qb6 7. Bxf6",
+        "turn": "w"
+    },
+    {
+        "eco": "B99",
+        "ecoName": "Sicilian: Najdorf, Main Line, 10.Qg3",
+        "prob": 3123,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. Qg3 h6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 3105,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. g6 hxg6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 3052,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qb6 9. O-O-O",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 3037,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Bxf6 Qxf6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 3002,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. Be2 Nbd7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 2971,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qf4 Kc8 22. Nc6 a5 23. Kb1 Kb7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 2961,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Be2 Bb7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 2959,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 Rb8 11. Bxf6",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 2946,
+        "pgn": "1. e4 Na6 2. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "B27",
+        "ecoName": "Sicilian: Quinteros Variation",
+        "prob": 2873,
+        "pgn": "1. e4 c5 2. Nf3 Qc7 3. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 2804,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. e5 dxe5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 2729,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. Bd3 Nbd7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 2673,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qf2 Kc8",
+        "turn": "b"
+    },
+    {
+        "eco": "B99",
+        "ecoName": "Sicilian: Najdorf, Main Line, 10.g4 b5 11.a3",
+        "prob": 2612,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. a3 Bb7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 2464,
+        "pgn": "1. e4 Nh6 2. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 2458,
+        "pgn": "1. e4 c5 2. f3 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 2438,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bg2 Bb7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 2433,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. Qh5 g6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 2329,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. fxe6 fxe6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 2290,
+        "pgn": "1. e4 c5 2. Na3 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 2230,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. Kb1 b4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 2230,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. Bh3 b4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 2230,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. Bd3 Bb7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 2151,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Bc4 Qc7",
+        "turn": "b"
+    },
+    {
+        "eco": "B96",
+        "ecoName": "Sicilian: Najdorf, 7.f4 Bd7",
+        "prob": 2069,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Bd7 8. Qf3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 2053,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a3 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 2011,
+        "pgn": "1. e4 c5 2. Qh5 e6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1947,
+        "pgn": "1. e4 c5 2. Qf3 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1911,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. Bd3 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1874,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 h6 7. Bxf6",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1859,
+        "pgn": "1. e4 c5 2. Bb5 a6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1845,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. f5 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1829,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 Bb7 18. Bh3",
+        "turn": "w"
+    },
+    {
+        "eco": "A00",
+        "ecoName": "Durkin",
+        "prob": 1719,
+        "pgn": "1. Na3 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1677,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Bc4 g6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1662,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Nd7 20. Re1+",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1637,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. g4 Nbd7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1622,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. Qh3 Nc5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1590,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Be2 O-O",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1552,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. Bh3 b4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1523,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 O-O 14. Qg3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1508,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 g6 4. dxc5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1430,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 Bf8 15. Bxb5+",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1412,
+        "pgn": "1. e4 c5 2. h3 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1402,
+        "pgn": "1. e4 c5 2. Nf3 e5 3. Nxe5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1393,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Kb1 b4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1379,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 Bh6+ 17. Kb1",
+        "turn": "w"
+    },
+    {
+        "eco": "B95",
+        "ecoName": "Sicilian: Najdorf, 6...e6 7.Qd3",
+        "prob": 1371,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd3 Be7",
+        "turn": "b"
+    },
+    {
+        "eco": "B56",
+        "ecoName": "Sicilian: Open, 2...d6, 5.Nc3 Nbd7",
+        "prob": 1325,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nbd7 6. Bc4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1314,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. h4 b4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1310,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. a3 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1306,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 Bd7 18. e5",
+        "turn": "w"
+    },
+    {
+        "eco": "B94",
+        "ecoName": "Sicilian: Najdorf, 6.Bg5 b5",
+        "prob": 1300,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 b5 7. Bxf6",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1216,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. Bg2 Bb7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1216,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qd3 h6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1175,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Rc1 Be7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1164,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. Qh5 g6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1147,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Qc7 7. f4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1142,
+        "pgn": "1. e4 c5 2. Nf3 h6 3. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1045,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 Bxg7 18. fxg7",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 1032,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Qa5 7. Bxf6",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 972,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Bd7 5. Nc3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 970,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 c4 4. Bxc4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 935,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Bd3 h6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 917,
+        "pgn": "1. e4 c5 2. Qe2 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 889,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nd2 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 878,
+        "pgn": "1. e4 c5 2. Be2 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 870,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. e5 Bb7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 868,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Qd3 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 811,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. Nf5 exf5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 808,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Kb1 b4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 808,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Bd3 Bb7",
+        "turn": "b"
+    },
+    {
+        "eco": "B27",
+        "ecoName": "Sicilian: Mongoose Variation",
+        "prob": 779,
+        "pgn": "1. e4 c5 2. Nf3 Qa5 3. Nc3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 776,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. Rg1 b4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 748,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. e5 dxe5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 747,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nb3 g6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 747,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Bg5 Nxe4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 727,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Be3 Nxe4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 674,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g4 Bxg4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 666,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 e5 14. Nd5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 665,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 Nc5 11. Bxf6",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 656,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bg4 6. f3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 639,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. f5 Nd7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 616,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Qe2 e6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 612,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 g6 7. Qd2",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 608,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. e5 Bb7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 567,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. h4 h6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 565,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 h5 17. Rg7 b4 18. Nd5 exd5 19. exd5 Bg4 20. Re1+ Kd8 21. Qf4 Bxg7 22. fxg7",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 565,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. c4 Nxe4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 561,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. g4 Nbd7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 557,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd2 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 549,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 Nd7 4. Nc3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 545,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. c3 Nxe4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 545,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. f5 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 528,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bf4 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 522,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxb5 axb5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 522,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. a4 Be7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 508,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 b5 9. e5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 502,
+        "pgn": "1. e4 c5 2. Bd3 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 491,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. a4 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 486,
+        "pgn": "1. e4 c5 2. a4 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 479,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 d5 5. exd5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 476,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Bb7 14. fxe6",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 459,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Bd7 7. Qd2",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 452,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Bd7 9. O-O-O",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 443,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 Nb6 11. Kb1",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 433,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 h6 6. Be3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 425,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. Rd2 h6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 424,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Nf3 Be7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 423,
+        "pgn": "1. e4 c5 2. h4 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 409,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 e6 4. dxc5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 409,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. Rd1 Nbd7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 405,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. Rg1 b4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 404,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. e5 Bb7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 404,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. b4 Nd7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 404,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Re1 h5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 404,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Nd5 exd5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 404,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Nb3 Bb7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 388,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. b4 Na4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 388,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. Kb1 Bxg5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 348,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. f5 Ne5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 348,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. a4 b4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 340,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a5 6. Bb5+",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 327,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 Qa5+ 4. Nc3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 319,
+        "pgn": "1. e4 c5 2. Qg4 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 309,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. Na3 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 304,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Bd3 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 302,
+        "pgn": "1. e4 c5 2. Nf3 f5 3. exf5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 295,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 h5 11. gxh5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 293,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. e5 dxe5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 293,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Nf5 Nxe4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 293,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. g3 Be7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 285,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. e5 dxe5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 283,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. Qh3 b5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 283,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. Nb3 h6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 282,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 e5 9. Nf5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 282,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nf3 g6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 272,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qa5 8. Qf3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 272,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. Nb3 Nbd7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 261,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. h4 Be7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 245,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 Bg4 4. dxc5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 242,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f4 Nxe4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 242,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Be2 a6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 233,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nd7 5. Nc3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 226,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Nfd7 9. Bxe7",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 221,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b6 11. Bxf6",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 213,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. a3 d5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 210,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 b6 4. dxc5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 209,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Bg5 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 202,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. Rd2 b4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 202,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. Kd2 b4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 202,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. Bxb5 axb5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 199,
+        "pgn": "1. e4 c5 2. Nf3 h5 3. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 199,
+        "pgn": "1. e4 c5 2. Nf3 Qb6 3. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 190,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 exf5 14. Qf4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 187,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Nb3 O-O",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 187,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Bxf6 Bxf6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 176,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. b3 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 174,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. h4 b4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 174,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. h3 b4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 174,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. b3 Bb7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 174,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bh4 O-O",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 174,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bh3 Bb7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 173,
+        "pgn": "1. e4 c5 2. Nf3 c4 3. Bxc4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 169,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qd7 9. O-O-O",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 167,
+        "pgn": "1. e4 c5 2. Nh3 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 163,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. a3 Be7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 163,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Be3 Be7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 161,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. e5 dxe5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 155,
+        "pgn": "1. e4 c5 2. Nf3 f6 3. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 155,
+        "pgn": "1. e4 c5 2. Nf3 a5 3. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 153,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1 Rb8 17. Rg7",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 152,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 a6 4. Nc3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 147,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Qc7 5. Nc3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 146,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Qd3 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 145,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. Ng5 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 143,
+        "pgn": "1. e4 c5 2. g4 d5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 141,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g3 O-O",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 141,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. a3 b5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 141,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. Re1 h6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 141,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. Nce2 Nc5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 141,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. Kd2 h6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 141,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. Bh4 b5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 136,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. Kd1 Nbd7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 136,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. Bxf6 Bxf6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 133,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qd3 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 130,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. g4 Be7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 130,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. e5 dxe5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 129,
+        "pgn": "1. e4 c5 2. Nf3 g5 3. Nxg5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 127,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. Nd4 cxd4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 127,
+        "pgn": "1. e4 c5 2. Ke2 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 123,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 f6 5. Nc3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 117,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Nde2 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 117,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Ke2 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 117,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bb5+ axb5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 116,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 e5 4. dxe5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 116,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 Bd7 4. dxc5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 114,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nc3 dxc3",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 113,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 d5 9. O-O-O",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 112,
+        "pgn": "1. e4 c5 2. Nf3 b5 3. Bxb5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 112,
+        "pgn": "1. e4 c5 2. Nf3 Na6 3. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 110,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 b4 15. Ncb5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 108,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 g6 8. Qf3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 108,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 e5 8. Nb3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 97,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. h3 Be7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 97,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Nb3 b5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 97,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Kd2 Be7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 95,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 b4 14. fxe6",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 95,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. b3 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 93,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Qb6 6. Nb3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 93,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 Qb6 4. Nc3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 93,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. h4 Qc7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 93,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. g3 Qc7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 93,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qc1 Qb6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 93,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Nf3 Qc7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 93,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Bh4 Qa5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 88,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h4 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 88,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. b4 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 88,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Nd5 Nxd5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 82,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d5 6. Bb5+",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 80,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Qe2 g6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 80,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nf5 g6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 79,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 O-O 12. Bxe7",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 78,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 b4 13. gxf6",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 78,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Bb7 13. gxf6",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 76,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. g3 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 76,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. c4 dxc3",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 76,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Be3 dxe3",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 73,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 a5 5. Nc3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 73,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 e5 11. Nf5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 73,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. g4 Ng8 11. h4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 65,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qb1 Be7",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 61,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Qb6 5. Nc3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 61,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Qa5+ 5. Nc3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 60,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. g3 a6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 60,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Qf3 a6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 58,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 f6 4. dxc5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 58,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Qc7 6. Bg5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 58,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Na6 6. Bb5+",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 58,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 Qc7 4. Nc3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 58,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bh6 gxh6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 56,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 b6 9. e5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 56,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 a5 9. O-O-O",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 56,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O e5 10. Nf5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 56,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O b6 10. e5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 56,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O a5 10. Bxf6",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 56,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Ng8 9. Bxe7",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 54,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b6 8. Bc4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 54,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Rg8 8. Bxf6",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 54,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qd7 8. Qf3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 54,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Ke7 8. e5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 54,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. Qe2 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 51,
+        "pgn": "1. e4 c5 2. Nf3 Nh6 3. d4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 49,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 h5 5. Nc3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 46,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 d5 4. exd5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 40,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. g4 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 40,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. a4 Nxe4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 40,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Ne2 g6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 40,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc6 bxc6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 40,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Na3 Nxe4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 40,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Bf4 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 38,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Rg8 7. Bd3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 38,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nxe4 7. Nxe4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 38,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Ng4 7. Bc1",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 38,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Ng5 f6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 38,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Be2 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 36,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 b6 5. Nc3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 36,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. h4 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 36,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. Ng1 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 36,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. Ba6 Nxa6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 35,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 f5 4. exf5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 35,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g5 6. Bxg5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 35,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 b6 6. Bb5+",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 35,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nxe4 6. Nxe4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 35,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 Nh6 4. dxc5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 32,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Bc1 e5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 31,
+        "pgn": "1. e4 c5 2. Ba6 Nxa6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 29,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Ndb5 axb5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 29,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Nc6 Nxc6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 24,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Be6 5. Nxe6",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 23,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Qa5 6. Be3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 23,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Kd7 6. Bg5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 23,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 b5 4. Bxb5+",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 23,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 a5 4. dxc5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 23,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 Na6 4. Bxa6",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 20,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. h4 a6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 20,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. h3 Nxe4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 20,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. b3 Nxe4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 20,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Ne6 Bxe6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 20,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nb5 a6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 19,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. g4 Bxg4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 19,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. b4 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 19,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. a3 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 19,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nfd2 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 19,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Ne5 dxe5",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 18,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. g4 Bxg4",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 18,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. Rg1 Nc6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 18,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. Nh4 Nf6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 18,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. Ke2 e6",
+        "turn": "b"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 12,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 h6 5. Bc4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 12,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 f5 5. Nc3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 12,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Qd7 5. Nc3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 12,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nh6 5. Bc4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 12,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Kd7 5. Bb5+",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 12,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Bg4 5. Qxg4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 11,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 h5 4. dxc5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 11,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 g5 4. Nxg5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 11,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Rg8 6. Bb5+",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 11,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nfd7 6. f4",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 11,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 Qd7 4. dxc5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 11,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 Kd7 4. Bb5+",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 11,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 Bh3 4. gxh3",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 11,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 Bf5 4. exf5",
+        "turn": "w"
+    },
+    {
+        "eco": "",
+        "ecoName": "",
+        "prob": 11,
+        "pgn": "1. e4 c5 2. Nf3 d6 3. d4 Be6 4. dxc5",
+        "turn": "w"
+    }
+]
