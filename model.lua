@@ -98,8 +98,8 @@ function m.getMoves(pgn)
   local moves = {}
   local movesIndex = 1
   for moveStr in movesStr:gmatch("[a-h][1-8][a-h][1-8]") do
-    move = {}
-    moveIndex = 1
+    local move = {}
+    local moveIndex = 1
     for squareName in moveStr:gmatch("[a-h][1-8]") do
       move[moveIndex] = squareName
       moveIndex = moveIndex + 1
@@ -165,10 +165,18 @@ function m.ChessGame.new(params)
   function game.makeOpponentMove()
     move = game.moves[game.movesIndex]
     game.movesIndex = game.movesIndex + 2
-    if move == nil:
+    if move == nil then
+      print("movesIndex", game.movesIndex)
       print(game.opening.pgn)
-      print("moveIndex", game.movesIndex)
-      for i,v in ipairs(move) do print(v) end
+      for i, m in ipairs(game.moves) do
+        io.write(i, " ")
+        for j,v in ipairs(m) do
+          io.write(v)
+        end
+          io.write(", ")
+      end
+      io.write("\n")
+    end
     c0_LuaChess.c0_move_to(move[1], move[2])
 
         -- I/Corona  ( 5113): Runtime error
@@ -243,9 +251,10 @@ function m.ChessGame.new(params)
   function game.makeMove(fromSquareName, toSquareName)
     c0_LuaChess.c0_move_to(fromSquareName, toSquareName)
     local rawPgn = c0_LuaChess.c0_put_to_PGN("")
+    -- print("raw     ", rawPgn)
     c0_LuaChess.c0_sidemoves = -c0_LuaChess.c0_sidemoves
     local pgn
-    for s in rawPgn:gmatch("1%. N?[a-h][1-8][^0]*") do
+    for s in rawPgn:gmatch("1%. N?[a-h][1-8].*") do
       pgn = s:sub(1, #s-2)
     end
     -- |1. e4 e5|
@@ -253,6 +262,8 @@ function m.ChessGame.new(params)
     -- |1. e4 e5 2. d4 d5|
     -- |1. e4 e5 2. d4 d5 3. Nc3|
     expected = game.opening.pgn
+    -- print("actual  ", pgn)
+    -- print("expected", expected)
     if pgn == expected then
       if m.book.currentIndex == #m.book.openings then
         m.book.currentIndex = 1
