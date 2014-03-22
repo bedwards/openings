@@ -35,6 +35,8 @@ function m.OpeningBook.new()
   if settingsFile == nil then
     settingsFile = io.open(m.settingsPath, "w")
     settingsFile:write(json.encode({ book = { currentIndex = 1 } }))
+    io.close(settingsFile)
+    settingsFile = nil
     book.currentIndex = 1
   else
     local contents = settingsFile:read("*a")
@@ -44,7 +46,8 @@ function m.OpeningBook.new()
     book.currentIndex = settings.book.currentIndex
   end
 
-  local path = system.pathForFile( "./openings.json" )
+  utils.copyFile("openings.json.txt", nil, "openings.json", system.DocumentsDirectory, true)
+  local path = system.pathForFile("openings.json", system.DocumentsDirectory)
   local file = io.open(path, "r")
   local contents = file:read("*a")
   io.close(file)
@@ -162,7 +165,21 @@ function m.ChessGame.new(params)
   function game.makeOpponentMove()
     move = game.moves[game.movesIndex]
     game.movesIndex = game.movesIndex + 2
+    if move == nil:
+      print(game.opening.pgn)
+      print("moveIndex", game.movesIndex)
+      for i,v in ipairs(move) do print(v) end
     c0_LuaChess.c0_move_to(move[1], move[2])
+
+        -- I/Corona  ( 5113): Runtime error
+        -- I/Corona  ( 5113): /Users/bedwards/openings/model.lua:168: attempt to index global 'move' (a nil value)
+        -- I/Corona  ( 5113): stack traceback:
+        -- I/Corona  ( 5113):  /Users/bedwards/openings/model.lua:168: in function 'makeOpponentMove'
+        -- I/Corona  ( 5113):  /Users/bedwards/openings/view.lua:424: in function '_listener'
+        -- I/Corona  ( 5113):  ?: in function <?:141>
+        -- I/Corona  ( 5113):  ?: in function <?:218>
+
+
     -- print(move[1], move[2], c0_LuaChess.c0_get_FEN())
     c0_LuaChess.c0_sidemoves = -c0_LuaChess.c0_sidemoves
     local oppMoveInfo = {
